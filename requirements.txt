@@ -1,0 +1,13 @@
+langchain
+openai
+python-dotenv
+langchain-community
+beautifulsoup4
+rank_bm25
+nltk
+langchain-openai
+numpy
+chromadb
+langsmith
+gradio
+schedule
